@@ -84,7 +84,7 @@ namespace Persistence
                     Description = "Activity 6 months in future",
                     Category = "music",
                     City = "London",
-                    Venue = "Roundhouse Camden",
+                    Venue = "Roundhouse Camden 2",
                 },
                 new Activity
                 {
